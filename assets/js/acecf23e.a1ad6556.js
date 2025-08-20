@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocudam=self.webpackChunkdocudam||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/docudam/blog","blogTitle":"Blog","authorsListPath":"/docudam/blog/authors"}')}}]);
