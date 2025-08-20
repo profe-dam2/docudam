@@ -4,6 +4,20 @@ sidebar_position: 1
 
 # Contenedores
 
+## Stackpanel
+
+## Grid
+
+## Dockpanel
+
+## WrapPanel
+
+## TabControl
+
+## TabStrip
+
+
+
 ```
 docker run -it \
   -v /home/ubuntu/docudam:/opt/docusaurus/docudam \
